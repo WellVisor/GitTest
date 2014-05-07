@@ -4,6 +4,7 @@
     {
         /// <summary>
         /// Required designer variable.
+        /// Added a note to "check out the file" will check it back in 
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
